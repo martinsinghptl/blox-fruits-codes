@@ -40,6 +40,9 @@ If you know of any new codes or updates, feel free to contribute:
 
 We appreciate your help in keeping this list up-to-date for the community!
 
+##License 📄
+This script is distributed under the MIT License. Feel free to use, modify, and distribute this script according to the terms of the license.
+
 ## Disclaimer
 - Codes are case-sensitive. Ensure you type them exactly as they appear.
 - Codes may expire without notice.
